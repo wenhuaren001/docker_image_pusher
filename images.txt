@@ -1,2 +1,2 @@
 python:alpine3.20
-docker pull php:fpm-alpine3.20
+php:fpm-alpine3.20
