@@ -1,3 +1,4 @@
 python:alpine3.20
 php:fpm-alpine3.20
 kubernetesui/dashboard:v2.5.1
+registry.k8s.io/metrics-server/metrics-server:v0.6.3
