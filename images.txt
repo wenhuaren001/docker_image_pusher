@@ -4,3 +4,4 @@ kubernetesui/dashboard:v2.5.1
 registry.k8s.io/metrics-server/metrics-server:v0.6.3
 nginx:1.27-alpine
 nginx
+busybox
